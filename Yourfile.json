@@ -7,14 +7,14 @@
     },
     {
         "device_id": "3d4f433ba6987fc3",
-        "key": "key67890",
+        "key": "key12345",
         "expirydate": "15-06-2026",
         "Allowoffline": true
     },
     
     {
         "device_id": "3d4f433ba6987fc3",
-        "key": "key123",
+        "key": "key12345",
         "expirydate": "15-06-2026",
         "Allowoffline": true
     }
